@@ -6,9 +6,10 @@ website:
   title: "Yuan Zhou"
   navbar:
     left:
-      - href: "Basics"
-        text: Home
-      - about.qmd
+      - text: Home
+        file: about.qmd
+  sidebar: 
+    style: docked
 
 format:
   html:
