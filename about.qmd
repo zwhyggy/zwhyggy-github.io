@@ -3,3 +3,7 @@ title: "Projects"
 ---
 
 Statistics Projects
+
+links : 
+  - text: Time Series Project
+    href: https://zwhyggy.github.io/274-project/
