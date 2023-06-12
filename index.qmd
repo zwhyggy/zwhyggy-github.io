@@ -1,7 +1,9 @@
 ---
-title: "Yuan Zhou "
+title: "Welcome to my page!"
 about: 
-  template: jolla
+  template: trestles
 ---
 
 ![](https://media.giphy.com/media/RhD2vMRABkTmesaYvZ/giphy.gif)
+
+My name is Yuan. Nice to meet you!

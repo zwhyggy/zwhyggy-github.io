@@ -1,22 +1,22 @@
 [
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About Me",
+    "objectID": "academic_projects.html",
+    "href": "academic_projects.html",
+    "title": "Academic Projects",
     "section": "",
-    "text": "Education\n\n\nExperience"
+    "text": "This is where I showcase my academic projects"
   },
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Yuan Zhou",
+    "title": "Welcome to my page!",
     "section": "",
-    "text": "Hello!"
+    "text": "My name is Yuan. Nice to meet you!"
   },
   {
-    "objectID": "About.html",
-    "href": "About.html",
-    "title": "About Me",
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "Yuan Zhou",
     "section": "",
     "text": "Education\n\n\nExperience"
   }

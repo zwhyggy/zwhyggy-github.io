@@ -1,0 +1,15 @@
+---
+title: "Academic Projects"
+image: Important-Video-statistics.jpg
+about: 
+  template: trestles
+  image-shape: round
+  links:
+    - text: My Time Series Project
+      icon: github
+      href: https://zwhyggy.github.io/274-project/
+  
+---
+
+
+# This is where I showcase my academic projects
