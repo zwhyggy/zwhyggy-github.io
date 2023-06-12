@@ -2,8 +2,22 @@
   {
     "objectID": "about.html",
     "href": "about.html",
-    "title": "Projects",
+    "title": "About Me",
     "section": "",
-    "text": "Statistics Projects\nlinks : - text: Time Series Project href: https://zwhyggy.github.io/274-project/"
+    "text": "Education\n\n\nExperience"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Yuan Zhou",
+    "section": "",
+    "text": "Hello!"
+  },
+  {
+    "objectID": "About.html",
+    "href": "About.html",
+    "title": "About Me",
+    "section": "",
+    "text": "Education\n\n\nExperience"
   }
 ]

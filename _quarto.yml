@@ -3,15 +3,14 @@ project:
   output-dir: docs
 
 website:
-  title: "Yuan Zhou"
+  title: "mysite"
   navbar:
     left:
-      - text: Home
+      - text: Welcome!
         file: index.qmd
-      - text: Projects 
+      - text: About Me 
         file: about.qmd
-  sidebar: 
-    style: docked
+
 
 format:
   html:

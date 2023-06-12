@@ -1,9 +1,9 @@
 ---
-title: "Projects"
-
-
-links : 
-  - text: Time Series Project 
-    href: https://zwhyggy.github.io/274-project/
-
+title: "Intro"
+about: 
+  template: trestles
 ---
+
+# Education
+
+# Experience
