@@ -14,9 +14,7 @@ website:
 
 format:
   html:
-    theme: 
-      light: sketchy
-      dark: slate
+    theme: sketchy
     css: styles.css
     toc: true
 
