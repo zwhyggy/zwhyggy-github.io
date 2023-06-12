@@ -1,5 +1,5 @@
 ---
-title: "Yuan Zhou Website"
+title: "Yuan Zhou "
 about: 
   template: trestles
 ---
