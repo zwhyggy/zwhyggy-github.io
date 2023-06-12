@@ -3,13 +3,13 @@ project:
   output-dir: docs
 
 website:
-  title: "zwhyggy@github.io"
-  navbar:
-    background: purple
-    left:
-      - href: index.qmd
-        text: Home
-      - about.qmd
+  title: "Yuan Zhou"
+  sidebar:
+    style: "docked"
+    search: true
+    contents:
+      - section: "Basics"
+        contents:
 
 format:
   html:
