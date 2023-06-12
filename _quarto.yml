@@ -4,19 +4,18 @@ project:
 
 website:
   title: "Yuan Zhou"
-  sidebar:
-    style: "docked"
-    search: true
-    contents:
-      - section: "Basics"
-        contents: 
-          - about.qmd
+  navbar:
+    left:
+      - href: "Basics"
+        text: Home
+      - about.qmd
 
 format:
   html:
     theme: sketchy
     css: styles.css
     toc: true
+    page-layout: full
 
 editor: visual
 
