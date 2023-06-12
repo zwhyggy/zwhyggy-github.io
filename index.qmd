@@ -3,6 +3,3 @@ title: "Yuan Zhou Website"
 about: 
   template: trestles
 ---
-
-
-![](https://media.giphy.com/media/RhD2vMRABkTmesaYvZ/giphy.gif)
