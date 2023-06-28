@@ -4,7 +4,7 @@
     "href": "academic_projects.html",
     "title": "Academic Projects",
     "section": "",
-    "text": "This is where I showcase my academic projects"
+    "text": "Time Series Project\nThe aim of the TS project is to answer the question : “how Did Covid Affect Seattle Housing’s Price?”\n\nThis project examined how the Covid 19 pandemic affected the housing market in Seattle by model building and forecasting. \nThe model building process involved examining the acf/pacf, also applied a variety of diagnostic checks to the residual to validate and choose the best model.\nForecasted housing prices by applying the best model from created models as if Covid didn’t happen, and then compared the forecasted to the actual data to analyze the effects Covid had on Seattle’s housing market. Turns out Covid hurt Seattle’s housing prices\n\n\n\nMachine Learning Project\nThe aim of this project is to predict if an NBA player will be a top 75 player based on their personal information such as height and weight"
   },
   {
     "objectID": "index.html",

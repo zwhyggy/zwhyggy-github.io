@@ -5,14 +5,27 @@ about:
   template: trestles
   image-shape: round
   links:
-    - text: My Time Series Project
+    - text: My Time Series Project Link
       icon: github
       href: https://zwhyggy.github.io/274-project/
-    - text: My Machine Learning Project 
+    - text: My Machine Learning Project Link
       icon: github
   
 ---
 
 
-# This is where I showcase my academic projects
+# Time Series Project
+
+The aim of the TS project is to answer the question : "how Did Covid Affect Seattle Housing's Price?" \
+
+This project examined how the Covid 19 pandemic affected the housing market in Seattle by model building and forecasting.\ 
+
+The model building process involved examining the acf/pacf, also applied a variety of diagnostic checks to the residual to validate and choose the best model.
+
+Forecasted housing prices by applying the best model from created models as if Covid didn't happen, and then compared the forecasted to the actual data to analyze the effects Covid had on Seattle's housing market. Turns out Covid hurt Seattle's housing prices\
+
+
+# Machine Learning Project
+The aim of this project is to predict if an NBA player will be a top 75 player based on their personal information such as height and weight \
+
 
