@@ -10,10 +10,13 @@ website:
         file: index.qmd
       - text: About Me 
         file: about.qmd
+      - text: Certificates
+        file: certificates.qmd
       - text: Academic Projects
         file: academic_projects.qmd
       - text: Personal
         file: Other.qmd
+      
 
 
 format:
