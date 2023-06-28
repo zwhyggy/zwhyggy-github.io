@@ -8,8 +8,11 @@ about:
     - text: My Time Series Project
       icon: github
       href: https://zwhyggy.github.io/274-project/
+    - text: My Machine Learning Project 
+      icon: github
   
 ---
 
 
 # This is where I showcase my academic projects
+
