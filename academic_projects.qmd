@@ -10,6 +10,7 @@ about:
       href: https://zwhyggy.github.io/274-project/
     - text: My Machine Learning Project Link
       icon: github
+      href: https://zwhyggy.github.io/231-project/
   
 ---
 
