@@ -1,5 +1,10 @@
 ---
 title: "Other (Pictures, Playlists)"
+about: 
+  template: trestles
+  links: 
+    - text: blog link
+      href: https://zwhyggy.github.io/Blog/
 ---
 
 
@@ -8,4 +13,6 @@ I do enjoy other things other than math(Surprisingly).
 Going on trips, listing to music, and watching a LOT of movies 
 
 I consider myself as somewhat of a active film photographer with mediocre skills. I do enjoy document each trip or just a moment in time through photography. Here are some blogs: 
+
+
 
