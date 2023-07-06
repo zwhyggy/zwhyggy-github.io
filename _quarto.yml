@@ -14,8 +14,11 @@ website:
         file: certificates.qmd
       - text: Academic Projects
         file: academic_projects.qmd
+      - text: Blog
+        href: https://zwhyggy.github.io/Blog/
       - text: Personal
         file: Other.qmd
+    
       
 
 

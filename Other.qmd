@@ -1,7 +1,7 @@
 ---
 title: "Other (Pictures, Playlists)"
 about: 
-  template: trestles
+  template: jolla
   links: 
     - text: blog link
       href: https://zwhyggy.github.io/Blog/
