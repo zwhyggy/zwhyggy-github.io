@@ -2,8 +2,11 @@
 title: "Welcome to my page!"
 about: 
   template: trestles
+  links: 
+    - text: Email! Please feel free to email me!
+      href: mailto:yuan_zhou@ucsb.edu
 ---
 
 ![](https://media.giphy.com/media/RhD2vMRABkTmesaYvZ/giphy.gif)
 
-My name is Yuan. Nice to meet you!
+My name is Yuan. Nice to meet you.
